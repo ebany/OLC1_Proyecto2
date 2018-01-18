@@ -1,0 +1,10 @@
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\bin\Debug\[OLC1]Proyecto2_201403877.exe.config
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\bin\Debug\[OLC1]Proyecto2_201403877.exe
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\bin\Debug\[OLC1]Proyecto2_201403877.pdb
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\obj\Debug\[OLC1]Proyecto2_201403877.csprojResolveAssemblyReference.cache
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\obj\Debug\_OLC1_Proyecto2_201403877.Form1.resources
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\obj\Debug\_OLC1_Proyecto2_201403877.Properties.Resources.resources
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\obj\Debug\[OLC1]Proyecto2_201403877.csproj.GenerateResource.Cache
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\obj\Debug\[OLC1]Proyecto2_201403877.exe
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\obj\Debug\[OLC1]Proyecto2_201403877.pdb
+C:\Users\nicolaT\Desktop\OLC Proyecto2\[OLC1]Proyecto2_201403877\[OLC1]Proyecto2_201403877\bin\Debug\Irony.dll
